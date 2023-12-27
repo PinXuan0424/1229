@@ -1,0 +1,81 @@
+<title>文字+圖片</title>
+</head>
+<body background="bg001.PNG">
+<h1 align= center>文字+圖片 學號:91034141 姓名:曾品瑄 首頁:可樂雞</h1>
+
+
+
+<table border="0px">
+  <tr>
+    <td><img src="001.jfif" width="400" height="300"></td>
+    <td><img src="002.jfif" width="400" height="300"></td>
+    <td><img src="003.jfif" width="400" height="300"></td>
+    <td><img src="004.jfif" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td align= center><a href="index.html">可樂雞</a></td>
+    <td align= center><a href="2nd.html">棉花糖可可餅</a></td>
+    <td align= center><a href="3rd.html">雪Q餅</a></td>
+    <td align= center><a href="4th.html">巧克力爆漿蛋糕</a></td>
+  </tr>
+</table>
+
+
+
+
+
+
+<h2>可樂雞</h2>
+<h3>準備材料</h3>
+
+材料:
+<u1>
+<li>雞肉（可以使用雞翅、雞腿等部位）</li>
+<li>可樂飲料</li>
+<li>醬油</li>
+<li>生抽</li>
+<li>料酒</li>
+<li>姜片</li>
+<li>大蒜（切片）</li>
+<li>冰糖</li>
+<li>鹽</li>
+<li>植物油</li>
+</u1>
+
+
+  <tr>
+     <th>雞肉（可以使用雞翅、雞腿等部位）</th>
+     <td>可樂飲料</td>
+     <td>醬油</td>
+     <td>生抽</td>
+     <td>料酒</td>
+     <td>姜片</td>
+     <td>大蒜（切片）</td>
+     <td>冰糖</td>
+     <td>鹽</td>
+     <td>植物油</td>
+  </tr>
+  </table>
+
+<hr>
+
+準備雞肉： 將選擇的雞肉洗净，用廚房紙巾擦乾水分。<br>
+
+腌制雞肉： 在一個大碗中，加入醬油、生抽、料酒，放入姜片和蒜片，<br>
+將雞肉放入碗中腌制約15-30分鐘，讓雞肉充分吸收調味。<br>
+
+預熱鍋： 將鍋預熱，加入植物油，<br>
+待油熱後將腌制好的雞肉均勻放入鍋中煎炸，煎至兩面金黃。<br>
+
+加入可樂： 等雞肉煎至金黃時，加入足夠的可樂飲料，覆蓋雞肉。<br>
+注意不要完全淹沒雞肉，留一些空間，以免湯汁太多。<br>
+
+加入調味料： 加入少量鹽、冰糖，並加入一些額外的醬油和生抽，<br>
+根據個人口味調整。<br>
+
+悶煮： 蓋上鍋蓋，將火候調至中小火，<br>
+讓雞肉在可樂中悶煮約20-30分鐘，直至雞肉變得鬆軟入味，湯汁收濃。<br>
+
+收汁： 當湯汁收濃至喜歡的程度時，可以將火候提高，收汁至湯汁黏稠。<br>
+
+上菜： 裝盤，撒上一些蔥花或芫荽作點綴，即可上桌享用。<p>
